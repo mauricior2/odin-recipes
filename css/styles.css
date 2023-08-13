@@ -1,0 +1,21 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style:dashed;
+    border-radius: 10%;
+    border-color: rgb(174, 174, 77);
+    background-color: black;
+  }
+
+.title{
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+    color: chocolate;
+    text-decoration: underline;
+}
+
+.bullet-points{
+    font-size: 24px;
+    font-style: italic;
+    color:wheat;
+}
